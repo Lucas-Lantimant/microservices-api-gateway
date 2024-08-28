@@ -1,0 +1,8 @@
+.vscode/
+data/
+node_modules/
+coverage/
+logs/
+scripts/
+
+.env
